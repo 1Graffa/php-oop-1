@@ -26,6 +26,8 @@ $horror->genere = 'Film Horror';
 // stampo a schermo
 echo $italia->paese;
 echo $commedia->genere;
+echo $usa->paese;
+echo $horror->genere;
 
 
 
